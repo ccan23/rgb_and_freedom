@@ -1,6 +1,6 @@
 ## Take Home Exam
 ### Part A: Convert RGB codes to hex codes
-### Part B: Manupilate V-DEM database and visualize countries freedom
+### Part B: Manipulate V-DEM database and visualize countries freedom
 * country_name: This portion of the data consists 63 countries.
 * year: This portion of the data has the year range 2011 to 2021.
 * v2x_regime: Regimes of the World index is a categorical variable where
